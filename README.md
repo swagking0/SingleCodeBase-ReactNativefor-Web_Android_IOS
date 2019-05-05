@@ -23,7 +23,7 @@
    [Installation Link](https://github.com/wix/wml/)
    
 ## Understanding the file structure
-   
+
 ## Instructions to Run the Project
         git clone https://github.com/swagking0/Project_Intraa.net_MobileApp-Web.git
         cd Project_Intraa.net_MobileApp-Web/
