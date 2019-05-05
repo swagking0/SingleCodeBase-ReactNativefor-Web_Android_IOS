@@ -22,6 +22,9 @@
 #### Installing the wml software package (Needed to overcome simlink problems)
    [Installation Link](https://github.com/wix/wml/)
    
- ## Instructions to Run the Project
+## Understanding the file structure
+   
+## Instructions to Run the Project
         git clone https://github.com/swagking0/Project_Intraa.net_MobileApp-Web.git
         cd Project_Intraa.net_MobileApp-Web/
+        yarn   ------>   [This command will install all the node_modules needed for running the project]
