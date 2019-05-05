@@ -10,14 +10,14 @@
           registry=http://registry.npmjs.org/
 #### Installing the React-Native for the project
    [Installation link](https://code.likeagirl.io/say-hello-world-using-react-native-in-linux-15955986bc44) <br />
-    Note: Only concentrate on __first 3 steps__.
+    __Note:__ Only concentrate on __first 3 steps__.
 
 #### Installing the watchamn software package (Ubuntu 16.4) for the project
    [Installation Link](https://medium.com/@vonchristian/how-to-setup-watchman-on-ubuntu-16-04-53196cc0227c)
 ##### Problem: Missing packages important to install
    [Installation Link: pcre](http://www.linuxfromscratch.org/blfs/view/svn/general/pcre.html) <br />
    [Installation Link: readline](https://stackoverflow.com/questions/23085076/readline-readline-h-file-not-found) <br />
-   Note: Follow the solution comment with __103 Ticks__.
+   __Note:__ Follow the solution comment with __103 Ticks__.
    
 #### Installing the wml software package (Needed to overcome simlink problems)
    [Installation Link](https://github.com/wix/wml/)
