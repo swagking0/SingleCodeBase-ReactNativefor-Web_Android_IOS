@@ -23,8 +23,32 @@
    [Installation Link](https://github.com/wix/wml/)
    
 ## Understanding the file structure
-
+```
+.
+└── packages
+    ├── app 
+    ├── common 
+    │   └── src 
+    └── web 
+```
+__Note:__ Common folder holds the development part. Both App and Web are linked to the common workspace. Follow __below Instructions__ to run the project.
 ## Instructions to Run the Project
         git clone https://github.com/swagking0/Project_Intraa.net_MobileApp-Web.git
         cd Project_Intraa.net_MobileApp-Web/
         yarn   [This command will install all the node_modules needed for running the project]
+        cd packages/
+ #### In app/
+        cd app/
+        wml add ../commmon ./node_modules/@wow/common [This command will create link and help the app to load content from common folder]
+        wml start       [Terminal-1]
+        yarn start      [Terminal-2]
+        For android --> npm run android [Terminal-3]
+        For ios --> npm run ios [Terminal-3]
+  __Note__: For android, before running npm run android the emulator should be started. whereas in case of ios the npm run ios will start the emulator if configured correctly.
+#### In common/
+        cd common/
+        yarn build [This will build the build folder(dist/)] [Only use once after setting up the project for first time]
+        yarn 
+        
+        
+        
