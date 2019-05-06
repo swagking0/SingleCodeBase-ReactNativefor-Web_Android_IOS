@@ -44,7 +44,7 @@ __Note:__ Common folder holds the development part. Both App and Web are linked 
         yarn start      [Terminal-2]
         For android --> npm run android [Terminal-3]
         For ios --> npm run ios [Terminal-3]
-  __Note__: For android, before running npm run android the emulator should be started. whereas in case of ios the npm run ios will start the emulator if configured correctly.
+  __Note__: For android, before running npm run android the emulator should be started. whereas in case of ios, the npm run ios will start the emulator if configured correctly.
 #### In common/
         cd common/         [Terminal-4]
         yarn build [This will build the build folder(dist/)] [Only use once after setting up the project for first time] [Terminal-4]
