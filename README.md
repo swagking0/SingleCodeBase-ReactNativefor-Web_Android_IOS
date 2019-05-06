@@ -50,8 +50,8 @@ __Note:__ Common folder holds the development part. Both App and Web are linked 
         yarn build [This will build the build folder(dist/)] [Only use once after setting up the project for first time] [Terminal-4]
         yarn watch [This will update the changes made] [Terminal-4]
 #### In web/
-        cd web/
-        yarn start [This will start the web-dev server and open a new tab in system default browser][Default http: localhost:3000]
+        cd web/      [Terminal-5]
+        yarn start [This will start the web-dev server and open a new tab in system default browser][Default http: localhost:3000][Terminal-5]
         
         
         
