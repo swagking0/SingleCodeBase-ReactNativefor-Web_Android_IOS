@@ -39,7 +39,7 @@ __Note:__ Common folder holds the development part. Both App and Web are linked 
         cd packages/
  #### In app/
         cd app/
-        wml add ../commmon ./node_modules/@wow/common [This command will create link and help the app to load content from common folder]
+        wml add ../common ./node_modules/@wow/common [This command will create link and help the app to load content from common folder]
         wml start       [Terminal-1]
         yarn start      [Terminal-2]
         For android --> npm run android [Terminal-3]
