@@ -1,4 +1,4 @@
-# Project_Intraa.net_MobileApp-Web
+# SingleCodeBase-ReactNativefor-Web_Android_IOS
 
 ## Instructions to setup the Project
 #### Installing the Project Packege Management software yarn
